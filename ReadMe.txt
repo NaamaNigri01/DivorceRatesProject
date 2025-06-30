@@ -17,6 +17,9 @@ This project explores the demographic and cultural factors influencing divorce r
 - tidyverse
 - readxl
 - ggplot2
+- cluster
+- clusterCrit
+- caret
 
 Use `install.packages("packagename")` to install any missing packages.
 
